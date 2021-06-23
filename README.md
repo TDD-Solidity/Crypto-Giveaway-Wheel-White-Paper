@@ -1,7 +1,8 @@
 
 # Crypto-Wheel-Giveaway-How-It-Works
 
-
+  <br/>
+  
 ## Recipients registering 
 
 - (adding their wallet for the first time / register for the spin of any given day).
