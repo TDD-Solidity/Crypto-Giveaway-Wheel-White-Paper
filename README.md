@@ -19,7 +19,7 @@
   (Chat-Integrated Method) - Slash commands in slack / discord (automate taking attendence on zoom?)
   
   
-    <br/>
+  <br/>
   
 ## Contributors
 
