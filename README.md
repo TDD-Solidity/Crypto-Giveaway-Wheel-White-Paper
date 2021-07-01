@@ -47,8 +47,7 @@ The Crypto Giveaway Wheel is a simple browser application meant to bring people 
 
 This document lays out the philosophical underpinnings, technical foundations, and economic mechanisms of the Crypto Giveaway Wheel project.
 
-We would like to thank the following reviewers, whose contributions and feedback
-made this document possible:
+We would like to thank the following reviewers, whose contributions and feedback made this project possible:
 
 
 - Amal (Consensus)
