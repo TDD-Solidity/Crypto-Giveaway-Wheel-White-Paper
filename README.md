@@ -62,15 +62,32 @@ Blockchain technology has opened the door to cryptocurrencies and smart contract
 The Hack Money hackathon challenged us to use blockchain to create a world with a "freer and fairer finance".
 
 
-So we asked ourselves, "How do we eliminate poverty? How do we close the widening wealth gap? How do we encourage people to help and learn from each other?". While these are lofty goals that won't be solved overnight, we think the Crypto Giveaway Wheel is a step in the right direction. This dApp was built for our EthBuildersNYC meetup group, but we want to open it up to be used by _any_ meetup group to run crypto giveaways for its members.
+So we asked ourselves, "How do we eliminate poverty? How do we close the widening wealth gap? How do we encourage people to help and learn from each other?". While these are lofty goals that won't be solved overnight, we think the Crypto Giveaway Wheel is a step in the right direction. 
 
+
+## Open, Plug And Play System
+
+This dApp was built for our EthBuildersNYC meetup group, but we want to open it up to be used by _any_ meetup group to run crypto giveaways for its members.
+
+We plan to allow users to sign up as the admins for their own group. These users would be able to customize their own unique url for their members to use.
+
+For example: https://cryptogiveawaywheel.org/ethbuildersnyc
+
+
+## Rewards People For Community Involvement And Learning
 
 The key difference between the Crypto Giveaway Wheel and a universal basic income check is that with our dApp users are forced to show up an opt in for every payment. The Crypto Giveaway Wheel rewards those who are curious, those who are eager to learn, and those who get involved in community groups near them (or online). 
 
+The world outside of blockchain is very unfair, and some people are at an unnecessary disadvantage because of their finances, skin color, sexual orientation, or countless other reasons... 
+
+But for the Crypto Giveaway Wheel, everyone can escape all those unfairnesses. All you have to do is show up and say, "Hey friends, I'm here!", and you've got a fair shot at getting the grand prize _and_ a gaurentee that you'll get at least some free crypto token(s).
+
+
+## Trustless, Open, And Fair
 
 Another reason why we chose to built this application on the blockchain (as opposed to a tranditional frontend-backend-database architecture) was that we wanted everything to be fully open and trustless. When all the logic is written in public, immutable smart contracts nothing can be hidden, and the users know exactly what they are getting.
 
-Even the randomly chosen winner, a feature added for some pizzaz and excitement, is fairly chosen by a _veriably random function._ 
+Even the randomly chosen winner, a feature added for some pizzaz and excitement, is fairly chosen by a _verifiably random function._ 
 
 With the Crypto Giveaway Wheel we want to make the world a better place, one meetup event at a time. 
 
