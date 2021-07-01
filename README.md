@@ -2,20 +2,16 @@
 # Crypto Giveaway Wheel Whitepaper [Draft]
 
   <br/>
-    </br>
-    
-  <br/>
+  </br>
   
   // image of giveaway wheel or logo
   
   </br>
-    </br>
-      </br>
+  </br>
       
 ## Crypto Giveaway Wheel
 #### Free Crypto For All
 
-<br/>
 <br/>
 <br/>
 
@@ -64,6 +60,8 @@ The Hack Money hackathon challenged us to use blockchain to create a world with 
 
 So we asked ourselves, "How do we eliminate poverty? How do we close the widening wealth gap? How do we encourage people to help and learn from each other?". While these are lofty goals that won't be solved overnight, we think the Crypto Giveaway Wheel is a step in the right direction. 
 
+<br/>
+<br/>
 
 ## Open, Plug And Play System
 
@@ -73,6 +71,9 @@ We plan to allow users to sign up as the admins for their own group. These users
 
 For example: https://cryptogiveawaywheel.org/ethbuildersnyc
 
+<br/>
+<br/>
+
 
 ## Rewards People For Community Involvement And Learning
 
@@ -81,6 +82,9 @@ The key difference between the Crypto Giveaway Wheel and a universal basic incom
 The world outside of blockchain is very unfair, and some people are at an unnecessary disadvantage because of their finances, skin color, sexual orientation, or countless other reasons... 
 
 But for the Crypto Giveaway Wheel, everyone can escape all those unfairnesses. All you have to do is show up and say, "Hey friends, I'm here!", and you've got a fair shot at getting the grand prize _and_ a gaurentee that you'll get at least some free crypto token(s).
+
+<br/>
+<br/>
 
 
 ## Trustless, Open, And Fair
@@ -93,7 +97,6 @@ With the Crypto Giveaway Wheel we want to make the world a better place, one mee
 
 <br/>
 <br/>
-
 
 
 ## No Fees, Just Free Money
@@ -118,7 +121,6 @@ We plan to build up a small bankroll for the dev account with any hackathon winn
 
 <br/>
 <br/>
-<br/>
 
 
 ## Sponsors
@@ -135,7 +137,7 @@ The sponsors are core drivers of user engagement, and they ensure every meeting 
 
 <br/>
 <br/>
-<br/>
+
 
 ## The Wheel
 #### Some Spice Is Nice
@@ -151,7 +153,6 @@ While some may argue that the wheel itself is a unnecessary gimmick, we believe 
 
 <br/>
 <br/>
-<br/>
 
 
 ## Architecture
@@ -160,13 +161,11 @@ While some may argue that the wheel itself is a unnecessary gimmick, we believe 
 
 <br/>
 <br/>
-<br/>
 
 ## Security Considerations
 
 // TODO
 
-<br/>
 <br/>
 <br/>
 
