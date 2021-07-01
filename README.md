@@ -98,7 +98,8 @@ We plan to build up a small bankroll for the dev account with any hackathon winn
 <br/>
 
 
-## Sponsors - The Spark That Lights The Fire
+## Sponsors
+#### Donating Knowledge To Our Brains And Crypto To Our Wallets
 
 
 While we cover the gas costs, the "pot" that is distributed among the grand prize winner, participation prize winners, and dev team is funded by the "sponsor".
@@ -113,15 +114,17 @@ The sponsors are core drivers of user engagement, and they ensure every meeting 
 <br/>
 <br/>
 
-## The Wheel - Some Spice Is Nice
+## The Wheel
+#### Some Spice Is Nice
 
 Humans are extremely intrigued by randomness. It is a core element of what makes many games not onlyt fun the first time, but for an infinite number or replays as well- and in any given game _anything_ can happen.
 
 While some may argue that the wheel itself is a unnecessary gimmick, we believe that the wheel overall improves the user experience by adding an element of excitement, suspense, and surprise.
 
 
+## All The Coins, All The Networks! 
 
-
+// TODO
 
 <br/>
 <br/>
@@ -130,9 +133,11 @@ While some may argue that the wheel itself is a unnecessary gimmick, we believe 
 
 ## Architecture
 
+// TODO
 
+## Security Considerations
 
-
+// TODO
 
 
 <br/>
@@ -140,8 +145,9 @@ While some may argue that the wheel itself is a unnecessary gimmick, we believe 
 <br/>
 
 
+## Legal Considerations
 
-
+// TODO
 
 
 
