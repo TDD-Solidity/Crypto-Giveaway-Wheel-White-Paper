@@ -16,6 +16,12 @@
 #### Free Crypto For All
 
 <br/>
+<br/>
+<br/>
+
+## Core Team
+
+<br/>
 
 Jim Lynch
 jim.lynch@cryptogiveawaywheel.org
