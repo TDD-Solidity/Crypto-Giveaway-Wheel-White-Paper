@@ -45,6 +45,18 @@ Every time our EthBuildersNYC meetup group meets nowadays someone says, "aww, I 
 
 The Crypto Giveaway Wheel is a simple browser application meant to bring people together and continuously make everybody a little bit more connected, a little bit more aware, and a little bit more wealthy.
 
+This document lays out the philosophical underpinnings, technical foundations, and economic mechanisms of the Crypto Giveaway Wheel project.
+
+We would like to thank the following reviewers, whose contributions and feedback
+made this document possible:
+
+
+- Amal (Consensus)
+- Anthony (Consensus)
+- Ken (EthBuildersNYC)
+- 
+
+
 <br/>
 <br/>
 
