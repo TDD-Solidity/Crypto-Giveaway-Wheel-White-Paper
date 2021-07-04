@@ -180,7 +180,8 @@ The sponsor donates some of their desired cryptocurrency to "the pot". When the 
   When the admin call the "end event" function all the remaining eth is sent to the "dev wallet". This ensures that no eth is left "stuck in the contract".
   
   <br/>
-  #### Payout Breakdown With NFTs
+
+### Payout Breakdown With NFTs
   
   Suppose a Decentraland wearable creator wants to distribute his or her new shirts to users via the Crypto Gievaway Wheel. With this model, there is a "grand prize NFT" (a "legendary" shirt) and a participant prize (every oneelse else gets a less rare "uncommon" shirt).
   
