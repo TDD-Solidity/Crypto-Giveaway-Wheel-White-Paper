@@ -158,9 +158,15 @@ Humans are extremely intrigued by randomness. It is a core element of what makes
 While some may argue that the wheel itself is a unnecessary gimmick, we believe that the wheel overall improves the user experience by adding an element of excitement, suspense, and surprise.
 
 
-## All The Coins, All The Networks! 
+## All The Crypto, All The Networks! 
 
-// TODO
+We want to start small and interate to all the things! 
+
+First, we will support distributing ether on the ethereum network.
+
+We plan to support other layer 1 networks (such as Binance or NEAR) and also layer 2 networks (such as Polygon).
+
+Ultimately, we want to support a system where the sponsors can contribute _any_ cryptocurrency **or NFT** or _any_ network!
 
 <br/>
 <br/>
