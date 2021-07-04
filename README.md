@@ -1,13 +1,13 @@
 
-# Crypto Giveaway Wheel Whitepaper [Draft]
+# Crypto Giveaway Wheel Whitepaper (Draft)
 
-  <br/>
-  </br>
-  
-  // image of giveaway wheel or logo
-  
-  </br>
-  </br>
+<br/>
+</br>
+
+<img src="./giveaway-wheel-logo.png" />
+
+</br>
+</br>
       
 ## Crypto Giveaway Wheel
 #### Free Crypto For All
@@ -37,7 +37,6 @@ ibrahim.abouzeid@cryptogiveawaywheel.org
 <br/>
 <br/>
 
-
 ## Abstract
 
 Every time our EthBuildersNYC meetup group meets nowadays someone says, "aww, I wish we had finished that crypto giveaway wheel project so that we could do a crypto giveaway right now!".
@@ -53,6 +52,7 @@ We would like to thank the following reviewers, whose contributions and feedback
 - Amal (Consensus)
 - Anthony (Consensus)
 - Ken (EthBuildersNYC)
+- Yuling (Polygon)
 - 
 
 
@@ -155,8 +155,41 @@ The sponsors are core drivers of user engagement, and they ensure every meeting 
 
 Humans are extremely intrigued by randomness. It is a core element of what makes many games not onlyt fun the first time, but for an infinite number or replays as well- and in any given game _anything_ can happen.
 
-While some may argue that the wheel itself is a unnecessary gimmick, we believe that the wheel overall improves the user experience by adding an element of excitement, suspense, and surprise.
+While some may argue that the wheel itself is a unnecessary gimmick, we believe that the wheel overall improves the user experience by adding an element of excitement, suspense, and surprise although it is important for everyone to recognize that the wheel is _not_ the source of randomness, but just an interesting way to visualize the user selection on the frontend.
 
+<br/>
+<br/>
+
+## Payout Breakdown
+
+The sponsor donates some of their desired cryptocurrency to "the pot". When the wheel is spun evryone is assigned a portion of the pot which they can withdraw by clicking the "claim winnings" button. But exatly how much is assigned to each user? We are not completely stuck on these proportions, but this is what we are currently planning for the breakdown:
+
+  - Grand Prize Winner Participant: 25% of the pot
+
+  - Dev Team: 5% of the pot
+
+  - Other participants: Equally divide 70% of the pot
+
+
+  For example, suppose there is 0.1 eth in the pot and 6 participants.
+  
+  - The grand prize winner would claim 0.025 eth.
+  
+  - Each of the other 5 recipients can claim 0.014 eth.
+
+  When the admin call the "end event" function all the remaining eth is sent to the "dev wallet". This ensures that no eth is left "stuck in the contract".
+  
+  <br/>
+  #### Payout Breakdown With NFTs
+  
+  Suppose a Decentraland wearable creator wants to distribute his or her new shirts to users via the Crypto Gievaway Wheel. With this model, there is a "grand prize NFT" (a "legendary" shirt) and a participant prize (every oneelse else gets a less rare "uncommon" shirt).
+  
+  The sponsor chooses a maximum amout of uncommon NFTs to give away. As users register the system calculates the 5% dev share and reserves 5% of the uncommon shirts to be sent to the dev wallet when the event is closed.
+  
+  Every registered user must get an NFT, so once enough users have registered that the number of allocated uncommoon shirts have all been assigned then registration ends. New users who try to join will receive an error message that registration is full. 
+
+<br/>
+<br/>
 
 ## All The Crypto, All The Networks! 
 
@@ -172,16 +205,21 @@ Ultimately, we want to support a system where the sponsors can contribute _any_ 
 <br/>
 
 
-## Architecture
-
-// TODO
-
-<br/>
-<br/>
-
 ## Security Considerations
 
-// TODO
+Security is a huge concern in software development and especially in blockchain software development!
+
+Here are a few things we are planning to do to make our system robust and hack-proof.
+
+
+- Making sure to have modifiers to lock down admin-only, sponsor-only, and recipient-only callable public functions.
+
+- Using a "Pull Payment" strategy for distributing funds to users.
+
+- Putting Reentrancy gaurds on our functions.
+
+- Using OpenZeppelin's _Upgradable_ patten so we can fix any bugs that may come up.
+
 
 <br/>
 <br/>
@@ -189,59 +227,30 @@ Ultimately, we want to support a system where the sponsors can contribute _any_ 
 
 ## Legal Considerations
 
-// TODO
+This began as a fun way to airdrop some crypto to the people who came out to our meetup events, but it could grow into a massive money-distributing machine, and we don't want to break any laws in the proecss of running it.
+
+Before we deploy this live we plan to seek legal advice on at least these things:
+
+- Do we need to sent our recipients 1099 forms at the end of the year to report their winnings as income?
+
+- Do we need to do KYC (know your customer) verification on participants?
+
+- Do we need to somehow prove that people are not part of some terrorist organization?
+
+- Is this considered gambling? (note that there is no wager being made)
+
+- Are there specific states, countries, or territories whose citizens we cannot allow to participate?
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
----
 
-<br/>
-<br/>
+## Special Thanks
 
-# (Old Stuff)
-
+Special thanks to all the people who have helped us build this project and inspired us. The blockchain world is a great community in a fast-moving industry, and we hope our dApp will only accerate and expand people's interest and adoption of crypto technologies.
 
 <br/>
 <br/>
-<br/>
 
 
-  
-## Recipients registering 
-
-- (adding their wallet for the first time / register for the spin of any given day).
-   - view / update current wallet address
-  
-  <br/>
-   
-## Admins
-
-  - can remove unrecognized recipients from the list.
-
-  (Admin heavy method) - Admins add new users, check off list of attendees.
-  
-  (Chat-Integrated Method) - Slash commands in slack / discord (automate taking attendence on zoom?)
-  
-  
-  <br/>
-  
-## Contributors
-
-  - can register (add image they'd like to show in the box)
-
-  - can contribute crypto the pot.
-
-  - (support different cryptocurrencies, not just ether)
-
-  <br/>
-
-## Contributors & Recipients
-
-  - ui to move crypto between networks (eg. etheruem <--> matic polygon)
-  
   
